@@ -159,7 +159,7 @@ Developer experience first, extremely flexible code structure and only keep what
 - 📝 Logging with Pino.js and Log Management with [Better Stack](https://betterstack.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate)
 - 🖥️ Monitoring as Code with [Checkly](https://www.checklyhq.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate)
 - 🔐 Security and bot protection ([Arcjet](https://launch.arcjet.com/Q6eLbRE))
-- 📊 Analytics with PostHog
+- 📊 Analytics with [PostHog](https://posthog.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate)
 - 🎁 Automatic changelog generation with Semantic Release
 - 🔍 Visual testing with Percy (Optional)
 - 💡 Absolute Imports using `@` prefix
